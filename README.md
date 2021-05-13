@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @het-prajapati
+- 👋 Hi, I’m Het
 - 👀 I’m interested in computer programming and creative self development 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
