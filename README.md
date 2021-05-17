@@ -11,7 +11,7 @@ het-prajapati/README is a ✨ special ✨ repository because its `README.md` (th
 - 🌱 I’m currently learning Java and Swift
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
 
 ## Contact Me
