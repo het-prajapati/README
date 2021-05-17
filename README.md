@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hetprajapati | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][Instagram](www.instagram.com/hetprajapati90)
 
 <br />
