@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hello, I'm Het  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="500" height="320" />
 
 
 ## I'm a Student
