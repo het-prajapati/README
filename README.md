@@ -1,6 +1,5 @@
 <!---
-het-prajapati/het-prajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+het-prajapati/README is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
 ### Hello, I'm Het  👋
@@ -17,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="hetprajapati | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][Instagram](www.instagram.com/hetprajapati90)
+[<img align="left" alt="hetprajapati | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][Instagram](https://www.instagram.com/hetprajapati90)
 
 <br />
