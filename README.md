@@ -8,9 +8,9 @@ het-prajapati/README is a ✨ special ✨ repository because its `README.md` (th
 
 
 ## I'm a Student
-- 🌱 I’m currently learning Java, Web Development, and Swift
+- 🌱 I’m currently learning Java, Swift, and Web Development
 - 👯 I’m open to collaborations
-- 💬 Ask me about ... Anything
+- 💬 Ask me ... Anything
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun facts: ...
 ## Contact Me
