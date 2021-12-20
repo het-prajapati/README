@@ -12,7 +12,6 @@ het-prajapati/README is a ✨ special ✨ repository because its `README.md` (th
 - 👯 I’m open to collaborations
 - 💬 Ask me ... Anything
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun facts: ...
 ## Contact Me
 
 <a href="mailto:hprajapati@albany.edu? subject=Hello!"> 
