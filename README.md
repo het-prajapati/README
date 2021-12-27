@@ -22,4 +22,10 @@ het-prajapati/README is a ✨ special ✨ repository because its `README.md` (th
 
 <img align="left" alt="hetprajapati | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />[](https://www.instagram.com/hetprajapati90)
 
+<br/>
+
+## Personal Website
+
+[Click Here to Visit!](https://hetprajapati.com)
+
 <br />
