@@ -4,7 +4,7 @@ het-prajapati/README is a ✨ special ✨ repository because its `README.md` (th
 
 ### Hello, I'm Het  👋
 
- <img align="right" alt="GIF" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="500" height="320" />
+<!--  <img align="right" alt="GIF" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="500" height="320" /> -->
 
 
 ## I'm a Recent Graduate
